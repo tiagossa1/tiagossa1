@@ -29,6 +29,6 @@ While I'm not coding, I'm learning or improving skills which one of them is musi
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagossa1&theme=dark&langs_count=3)](https://github.com/tiagossa1)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagossa1&show_icons=true&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagossa1&show_icons=true&theme=dark)](https://github.com/tiagossa1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagossa1&repo=xdev-project&theme=dark)](https://github.com/tiagossa1/xdev-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagossa1&repo=TherapyManagementSystem&theme=dark)](https://github.com/tiagossa1/TherapyManagementSystem)
