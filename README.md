@@ -8,7 +8,8 @@ My name is Tiago Sá and I'm a software developer. I'm from Portugal and I'm wor
 
 ---
 
-While I'm not coding, I'm learning or improving skills which one of them is music. I enjoy finding a new chord progression and add it a bouncy drum kit on top of it! It is really a relaxing and fun hobby! Other than that, I'm a huge fan of Marvel & thriller/horror movies.
+When I'm not coding, I'm learning or improving other skills, one of which is music. I love discovering new chord progressions and layering them with a bouncy drum kit! It's an incredibly relaxing and enjoyable hobby!
+Aside from that, I'm a huge fan of Marvel and thriller/horror films. 
 
 ### 🔧 Technologies & Tools
 
