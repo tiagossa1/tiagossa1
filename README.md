@@ -2,7 +2,7 @@
 
 ---
 
-My name is Tiago Sá, and I work as a software developer. I am from Portugal and currently work at [Craftable Software](https://www.craftablesoftware.com/) in Porto. You can contact me through [LinkedIn](https://www.linkedin.com/in/tiagossa/)!
+My name is Tiago Sá, and I work as a software developer. You can contact me through [LinkedIn](https://www.linkedin.com/in/tiagossa/)!
 
 ### 🍿 Hobbies
 
