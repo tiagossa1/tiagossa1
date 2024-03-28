@@ -2,13 +2,13 @@
 
 ---
 
-My name is Tiago Sá, and I work as a software developer. You can contact me through [LinkedIn](https://www.linkedin.com/in/tiagossa/)!
+My name is Tiago Sá, and I work as a software developer!
 
 ### 🍿 Hobbies
 
 ---
 
-When I'm not coding, I'm learning or improving other skills, one of which is music. I love discovering new chord progressions and layering them with a bouncy drum kit! It's an incredibly relaxing and enjoyable hobby!
+When I'm not coding, I'm learning or improving other skills, including music. I love discovering and layering new chord progressions with a bouncy drum kit! It's an incredibly relaxing and enjoyable hobby!
 Aside from that, I'm a huge fan of Marvel and thriller/horror films. 
 
 ### 🔧 Technologies & Tools
